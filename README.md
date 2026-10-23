@@ -1,7 +1,8 @@
 # Meteor Breaker
 
-An original space-rock shooter — pilot your ship, blast the meteors, and don't get hit.
+A free arcade game you play in your browser: meteors are falling — break them apart before they reach the ground.
 
-Live page: https://jesuslovestyler.github.io/Meteor-breaker/
+**Live:** https://jesuslovestyler.github.io/Meteor-breaker/
+**Home:** https://jesuslovestyler.com/
 
-Made by Noki for Tyler. Public domain — share freely.
+One self-contained page: no account, no ads, nothing to buy. Released into the public domain (Unlicense — see LICENSE). Built by Tyler with Noki.
